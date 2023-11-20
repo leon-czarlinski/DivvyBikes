@@ -17,7 +17,7 @@ This hands-on project aims to explore the data set for the Chicago Divvy Bikes. 
 1. Perform exploratory data analysis
 
 ## Data Source
-For this project we will be using the [Data source](https://www.kaggle.com/mohansacharya/graduate-admissions](https://www.kaggle.com/datasets/leonczarlinski/divvy-bikes-chicago) available at kaggle.
+For this project we will be using the [Data source](https://www.kaggle.com/datasets/leonczarlinski/divvy-bikes-chicago) available at kaggle.
 
 ## Code Source
 To develop the analysis, I used the Kaggle notebook available on **GitHub**. [Click here](https://www.kaggle.com/code/leonczarlinski/divvy-bikes-eda) to access the file and see the results. 
